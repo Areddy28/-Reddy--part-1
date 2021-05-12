@@ -1,0 +1,64 @@
+.image1 {
+    width: 10%;
+
+}
+
+h1 {
+    position: relative;
+    margin-top: -4%;
+    margin-left: 70%;
+    font-size: 30px; 
+    font-family: 'Roboto Slab', serif;
+    color: #7944e6 
+    
+    
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+h2 {
+
+    font-family: 'Roboto Slab', serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10em; 
+
+}
+
+section {
+    background-color: #ff00ff;
+    
+}
+
+.image3 {
+    height: 30em; 
+    border: 2px solid #7944e6
+    
+}
+
+a:link {
+    color: red; 
+}
+ .image4 {
+     height: 20em; 
+     border: 2px solid #7944e6
+ }
+
+ .image5 {
+     height: 20em; 
+     border: 2px solid #7944e6
+ }
+
+ @media only screen and (min-width: 768px) {
+    body {
+      background-color: white;
+    }
+}
+
